@@ -1,5 +1,9 @@
 # Getting Started with Create React App
 
+## react-Fire App
+This is an app that tracks wildfires all over the world wherever it happens and displays  the fire on a google map.
+It uses data provided by NASA
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -68,3 +72,17 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+### Technologies used
+- React
+- Google Map API
+- NASA API
+- Iconify
+- JavaScript
+- CSS
+- HTML
+
+### Source
+The original code is from Brad @ 
+[Traversy Media, Youtube video](https://youtu.be/ontX4zfVqK8)
+
