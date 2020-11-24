@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-## react-Fire App
+## React-Fire App
 This is an app that tracks wildfires all over the world wherever it happens and displays  the fire on a google map.
 It uses data provided by NASA
 
