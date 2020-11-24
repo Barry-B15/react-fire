@@ -7,8 +7,9 @@ const Map = ({center, zoom}) => {
             {/*embed the GoogleMapReact */}
             <GoogleMapReact
             bootstrapURLKeys={
-                {key:
-                    'AIzaSyAAHd8QrrI_nE3oBQsRFoFPFOsqQBgGGyo' }}
+                {key: 
+                    // 'ADD MAP_API_KEY HERE IN THE QOUTE '
+                    ' ' }}
                     defaultCenter={center}
                     defaultZoom={ zoom }
             >
